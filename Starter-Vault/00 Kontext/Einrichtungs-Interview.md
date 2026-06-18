@@ -43,12 +43,17 @@ Du führst mit der Nutzerin ein warmes, ruhiges und tiefes Interview. Halte dich
 
 ### Wohin welcher Block gespeichert wird
 
+- **Name zuerst:** Die erste Frage in Block 2 ist der Name. Trag ihn in `CLAUDE.md` ein und ersetze überall den Platzhalter [DEIN NAME]. Lass nie einen Platzhalter stehen.
 - **Block 1 und 2**: in `CLAUDE.md` unter Über mich und Was ich erreichen will. Das wichtigste Ziel zusätzlich oben in `MEMORY.md`. Was früher nicht gehalten hat, festhalten, damit du es vermeidest.
-- **Block 3**: pro Bereich ein Ordner unter `03 Bereiche/` mit ausführlicher Startnotiz. Die Liste der Bereiche zusätzlich in `CLAUDE.md`.
+- **Block 3**: pro Bereich ein Ordner unter `03 Bereiche/` mit ausführlicher Startnotiz. Die Liste der Bereiche zusätzlich in `CLAUDE.md` unter einem Abschnitt "Meine Bereiche".
 - **Block 4**: pro Projekt eine Notiz unter `02 Projekte/`.
-- **Block 5 Außenwirkung und Content**: einen Bereich `03 Bereiche/Außenwirkung und Content/` anlegen, darin Startnotiz plus die Referenznotizen "Meine Zielgruppe", "Wofür ich bekannt sein will", "Meine öffentliche Stimme" und "Themen und Formate". Hier entstehen später ihre Postings, Blogbeiträge und Landingpage-Texte. Lege dafür bei Bedarf Unterordner an.
-- **Block 6 Stimme**: in `CLAUDE.md` unter "Wie ich arbeiten möchte".
-- **Block 7 Erstes Wissen**: als echte Wissensnotizen in den passenden Bereich.
+- **Block 5 Außenwirkung und Content**: einen Bereich `03 Bereiche/Außenwirkung und Content/` anlegen, darin Startnotiz plus die Referenznotizen "Meine Zielgruppe", "Wofür ich bekannt sein will", "Meine öffentliche Stimme" und "Themen und Formate". Diesen Bereich ebenfalls in die Bereich-Liste in `CLAUDE.md` aufnehmen. Hier entstehen später ihre Postings, Blogbeiträge und Landingpage-Texte.
+- **Block 6 Stimme**: in `CLAUDE.md` einen eigenen Abschnitt "Meine Stimme" anlegen. Die harten Regeln (zum Beispiel Siezen, keine Emojis) zusätzlich in `MEMORY.md`.
+- **Block 7 Erstes Wissen**: drei Dinge anlegen. Erstens eine Notiz "Häufige Mandantenfragen" im passenden Bereich mit den drei Fragen. Zweitens eine Wissensnotiz mit der ausformulierten Standardantwort. Drittens eine Vorlagen-Notiz für die genannte zeitsparende Vorlage, als Gerüst mit Überschrift und Platzhaltern, das sie später mit ihrem echten Text füllt.
+
+### Umgang mit den vorhandenen Ordnern
+
+Das Vault startet absichtlich mit leeren Hauptordnern. Lege die Bereiche und Projekte erst aus ihren echten Antworten an. Wenn ein vorhandener Ordner leer bleibt und nicht zu ihren Bereichen passt, schlag ihr am Ende vor, ihn zu entfernen, und frag, bevor du löschst.
 
 ---
 
@@ -69,16 +74,17 @@ Lass dir hier Zeit. Diese Fragen sind dein Moment zum Nachdenken.
 
 ### Block 2: Deine Rolle und deine Arbeit
 
-1. Welche Rechtsgebiete bearbeitest du, und welches macht den größten Teil aus?
-2. Arbeitest du allein oder im Team, und wer gehört dazu, mit welcher Rolle?
-3. Beschreib mir eine typische Arbeitswoche, ganz grob.
-4. Welche Aufgaben kehren fast jede Woche wieder?
-5. Welche davon machst du gern, welche kosten dich Überwindung?
-6. Bei welcher Aufgabe denkst du am häufigsten "das hatte ich doch schon mal, wo war das nur"?
+1. Wie heißt du, und wie soll dich dein Assistent ansprechen?
+2. Welche Rechtsgebiete bearbeitest du, und welches macht den größten Teil aus?
+3. Arbeitest du allein oder im Team, und wer gehört dazu, mit welcher Rolle?
+4. Beschreib mir eine typische Arbeitswoche, ganz grob.
+5. Welche Aufgaben kehren fast jede Woche wieder?
+6. Welche davon machst du gern, welche kosten dich Überwindung?
+7. Bei welcher Aufgabe denkst du am häufigsten "das hatte ich doch schon mal, wo war das nur"?
 
 ### Block 3: Deine Bereiche (das Herzstück)
 
-Ein Bereich ist eine laufende Verantwortung ohne Enddatum.
+Ein Bereich ist eine laufende Verantwortung ohne Enddatum. Wir gehen Bereich für Bereich. Du musst nicht alle an einem Tag schaffen, und kurze Antworten reichen völlig.
 
 **Erste Frage:**
 Welche festen Bereiche hast du gerade in deinem Berufsleben? Nenn mir ruhig fünf bis acht Stichworte. Beispiele: ein Rechtsgebiet, Mandantenpflege, Kanzlei-Organisation, Weiterbildung, Finanzen.
@@ -129,4 +135,4 @@ Hier geht es um alles, was du nach außen zeigst und schreibst. Beiträge, Posti
 
 1. Welche drei Fragen stellen dir Mandanten am häufigsten?
 2. Was ist deine Standardantwort auf die häufigste davon? Erzähl sie in Ruhe, ich halte sie als deine erste Wissensnotiz fest.
-3. Welche Vorlage oder welcher Textbaustein würde dir ab morgen am meisten Zeit sparen, wenn dein Assistent sie kennt?
+3. Welche Vorlage oder welcher Textbaustein würde dir ab morgen am meisten Zeit sparen? Ich lege dir dafür gleich ein Gerüst an, das du später mit deinem echten Text füllst.
