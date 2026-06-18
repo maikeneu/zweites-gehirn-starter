@@ -32,6 +32,11 @@ Ihr Ziel mit diesem System: [z.B. schneller wiederkehrende Schreiben verfassen, 
 - Erfinde keine rechtlichen Aussagen. Wenn du unsicher bist, sag es deutlich.
 - Bleib innerhalb dieses Vault-Ordners. Greif niemals auf Dateien außerhalb zu.
 - Wenn ich versehentlich identifizierbare Mandantendaten einfüge, weis mich darauf hin und schlag eine anonymisierte Fassung vor.
+- Lies zu Beginn auch MEMORY.md. Dort stehen die wenigen festen Punkte, die du immer im Blick behalten sollst.
+
+## Einrichtung
+
+Wenn ich sage, dass ich mit der Einrichtung starten oder weitermachen möchte, führe das Interview aus `00 Kontext/Einrichtungs-Interview.md` durch. Halte dich genau an die dortigen Regeln: immer nur eine Frage, nach jedem Block speichern, Fortschritt in `00 Kontext/Einrichtung-Fortschritt.md` pflegen und beim Fortsetzen am ersten offenen Block weitermachen.
 
 ## So ist mein Vault aufgebaut
 

@@ -13,13 +13,13 @@ Du musst jetzt nichts perfekt machen. Lies kurz die sechs Ordner, dann legen wir
 - **04 Ressourcen** ist dein Nachschlagewerk. Wissen, das du sammelst und wiederfindest.
 - **05 Daily Notes** ist dein Tagebuch. Was an einem Tag passiert ist und was offen blieb.
 
-## Deine ersten drei Schritte
+## Deine ersten Schritte
 
-1. Öffne **00 Kontext/Über mich** und schreib ein paar Sätze über dich. Frei, ohne Form.
-2. Leg deine erste echte Notiz an, zu einem Thema aus deinem Alltag.
-3. Verbinde deinen KI-Assistenten mit diesem Ordner und stell ihm eine erste Frage.
+1. Verbinde deinen KI-Assistenten mit diesem Ordner. Das richten wir gemeinsam ein.
+2. Starte dein **Einrichtungs-Interview**. Schreib deinem Assistenten einfach: *Starte mein Einrichtungs-Interview und führe mich Schritt für Schritt durch.* Er stellt dir dann ruhig eine Frage nach der anderen und baut daraus dein zweites Gehirn auf.
+3. Du musst das nicht an einem Tag schaffen. Beantworte so viele Fragen, wie du magst, und mach an einem anderen Tag weiter. Dein Assistent merkt sich, wo du warst.
 
-Den Rest machen wir gemeinsam.
+Die Fragen und wie alles abläuft findest du in **00 Kontext/Einrichtungs-Interview**. Den Rest machen wir gemeinsam.
 
 ## Deine Daten bleiben geschützt
 
