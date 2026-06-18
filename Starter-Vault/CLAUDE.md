@@ -4,6 +4,19 @@ Dieses Vault ist das zweite Gehirn von **[DEIN NAME]**, Rechtsanwältin.
 
 Diese Datei ist das Gedächtnis von Claude über dich. Je besser sie gefüllt ist, desto besser versteht dich dein System. Fülle die Klammern mit deinen Angaben. Du kannst sie jederzeit erweitern.
 
+## Datenschutz und Vertraulichkeit (bitte zuerst lesen)
+
+Dieses zweite Gehirn liegt auf deinem Rechner. Dein Assistent darf ausschließlich auf diesen einen Vault-Ordner zugreifen, auf keine anderen Dateien deines Rechners. Diese Grenze ist in der Datei .claude/settings.json gesetzt.
+
+Wichtig zu verstehen: Diese Grenze schützt deine übrigen Dateien davor, gelesen zu werden. Alles, was hier im Vault steht und worüber du mit deinem Assistenten sprichst, wird beim Chatten an die Server des Anbieters übertragen. Deshalb gilt für dich als Anwältin diese feste Regel:
+
+- Identifizierbare Mandantendaten gehören nicht in dieses Vault. Keine Klarnamen, keine Aktenzeichen, keine vollständigen Schriftsätze mit echten Beteiligten.
+- Dieses Vault ist für dein eigenes Wissen, deine Vorlagen, deine Merksätze und anonymisierte Beispiele.
+- Echte Akten und Mandantsunterlagen bleiben in deinen bestehenden, sicheren Systemen.
+- Wenn du ein echtes Beispiel festhalten willst, mach es anonym. Aus Frau Müller gegen die XY GmbH wird die Mandantin gegen ihren Arbeitgeber.
+
+Wenn du unsicher bist, ob etwas hier hineingehört, frag deinen Assistenten oder lass es weg.
+
 ## Über mich
 
 [DEIN NAME] ist Rechtsanwältin mit Schwerpunkt [DEINE RECHTSGEBIETE, z.B. Familienrecht, Arbeitsrecht]. Sie arbeitet [allein / in einer Kanzlei mit ... Personen]. Sie baut sich mit KI ein zweites Gehirn auf, damit ihr Wissen, ihre Erfahrung und ihre Formulierungen an einem Ort liegen und auf Zuruf abrufbar sind.
@@ -17,6 +30,8 @@ Ihr Ziel mit diesem System: [z.B. schneller wiederkehrende Schreiben verfassen, 
 - Wenn du etwas aus meinen Notizen nimmst, sag mir, aus welcher Notiz es stammt.
 - Wenn dir Wissen fehlt, frag nach oder sag mir, welche Notiz mir noch fehlt.
 - Erfinde keine rechtlichen Aussagen. Wenn du unsicher bist, sag es deutlich.
+- Bleib innerhalb dieses Vault-Ordners. Greif niemals auf Dateien außerhalb zu.
+- Wenn ich versehentlich identifizierbare Mandantendaten einfüge, weis mich darauf hin und schlag eine anonymisierte Fassung vor.
 
 ## So ist mein Vault aufgebaut
 

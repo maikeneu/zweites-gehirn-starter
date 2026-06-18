@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(~/**)",
+      "Read(/**)",
+      "Edit(~/**)",
+      "Edit(/**)",
+      "Bash(cat:*)",
+      "Bash(less:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(open:*)"
+    ],
+    "additionalDirectories": []
+  }
+}

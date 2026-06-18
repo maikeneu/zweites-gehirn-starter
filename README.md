@@ -41,6 +41,20 @@ Das war der technische Teil. Den Rest machen wir morgen zusammen.
 
 ---
 
+## So bleiben deine Daten sicher
+
+Dein zweites Gehirn liegt auf deinem eigenen Rechner. In unserer Stunde richten wir es gemeinsam so ein, dass dein Assistent ausschließlich diesen einen Ordner sieht und keine anderen Dateien auf deinem Computer.
+
+Eine Sache ist mir als deiner Begleiterin wichtig, gerade in deinem Beruf: Was du in diesem Ordner ablegst und worüber du mit deinem Assistenten sprichst, läuft über das Internet. Deshalb halten wir von Anfang an eine klare Regel ein.
+
+- Echte Mandantendaten gehören nicht in dieses zweite Gehirn. Keine Klarnamen, keine Aktenzeichen, keine kompletten Schriftsätze mit echten Beteiligten.
+- Dieser Raum ist für dein eigenes Wissen, deine Vorlagen, deine Merksätze und anonymisierte Beispiele.
+- Echte Akten bleiben in deinen bestehenden, sicheren Systemen.
+
+Das besprechen wir morgen in Ruhe. Du musst dazu jetzt nichts tun.
+
+---
+
 ## Was du zur Stunde mitbringst
 
 Kein Muss, aber Gold wert:

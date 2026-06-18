@@ -21,6 +21,10 @@ Du musst jetzt nichts perfekt machen. Lies kurz die sechs Ordner, dann legen wir
 
 Den Rest machen wir gemeinsam.
 
+## Deine Daten bleiben geschützt
+
+Dein Assistent darf nur diesen einen Ordner sehen, sonst nichts auf deinem Rechner. Das richten wir gemeinsam ein. Eine Regel gilt von Anfang an: echte Mandantendaten gehören nicht hier hinein. Dieser Raum ist für dein eigenes Wissen, deine Vorlagen und anonymisierte Beispiele. Mehr dazu steht in der Datei CLAUDE.md.
+
 ## Die drei Regeln, die dir alles leicht machen
 
 1. Klein anfangen schlägt vollständig anfangen.
