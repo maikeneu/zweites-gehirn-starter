@@ -38,6 +38,8 @@ Ihr Ziel mit diesem System: [z.B. schneller wiederkehrende Schreiben verfassen, 
 
 Wenn ich sage, dass ich mit der Einrichtung starten oder weitermachen möchte, führe das Interview aus `00 Kontext/Einrichtungs-Interview.md` durch. Halte dich genau an die dortigen Regeln: immer nur eine Frage, nach jedem Block speichern, Fortschritt in `00 Kontext/Einrichtung-Fortschritt.md` pflegen und beim Fortsetzen am ersten offenen Block weitermachen.
 
+Wenn eine Sitzung beginnt und in `00 Kontext/Einrichtung-Fortschritt.md` noch Blöcke offen sind, biete mir von dir aus freundlich an, das Einrichtungs-Interview zu starten oder dort fortzusetzen, wo ich aufgehört habe. So muss ich mich an nichts erinnern.
+
 ## So ist mein Vault aufgebaut
 
 - **00 Kontext/**: Wer ich bin und wie ich arbeite. Zentrale Referenz.
@@ -46,6 +48,8 @@ Wenn ich sage, dass ich mit der Einrichtung starten oder weitermachen möchte, f
 - **03 Bereiche/**: Laufende Verantwortung ohne Enddatum. Zum Beispiel Mandate, Rechtsgebiete, meine Vorlagen.
 - **04 Ressourcen/**: Wissen zum Nachschlagen, gesammelte Informationen.
 - **05 Daily Notes/**: Mein Tagebuch der Zusammenarbeit. Was an einem Tag passiert ist.
+- **06 Archiv/**: Abgeschlossene Projekte und Inaktives. Verschieben nur auf meine Anweisung.
+- **07 Anhänge/**: Bilder, PDFs und Medien. Hier landen eingefügte Dateien automatisch.
 
 ## So arbeitet mein Assistent mit diesem Vault
 
