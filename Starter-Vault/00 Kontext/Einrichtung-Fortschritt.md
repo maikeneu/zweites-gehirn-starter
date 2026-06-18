@@ -9,9 +9,17 @@ Diese Liste zeigt, wie weit du mit dem Einrichtungs-Interview bist. Dein Assiste
 
 - [ ] Block 1: Wohin willst du (Ziele)
 - [ ] Block 2: Deine Rolle und deine Arbeit
-- [ ] Block 3: Deine Bereiche
+- [ ] Block 3: Deine Bereiche (Herzstück)
 - [ ] Block 4: Deine Projekte
 - [ ] Block 5: Deine Stimme
-- [ ] Block 6: Was als Erstes hinein soll
+- [ ] Block 6: Dein erstes Wissen
 
-Wenn alle Punkte abgehakt sind, steht dein Grundgerüst. Ab dann füllst du dein zweites Gehirn Stück für Stück mit deinem echten Wissen.
+## Bereiche im Detail
+
+Sobald du deine Bereiche genannt hast, trägt dein Assistent sie hier ein und hakt jeden ab, wenn die Tiefenrunde dazu fertig ist. So siehst du immer, welcher Bereich schon sitzt und welcher noch wartet.
+
+(Wird während Block 3 gefüllt.)
+
+---
+
+Wenn alle Punkte abgehakt sind, steht dein Grundgerüst und ein erster Kern an echtem Wissen. Ab dann füllst du dein zweites Gehirn Stück für Stück weiter.

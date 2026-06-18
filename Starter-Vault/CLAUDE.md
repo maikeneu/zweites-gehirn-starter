@@ -47,9 +47,48 @@ Wenn ich sage, dass ich mit der Einrichtung starten oder weitermachen möchte, f
 - **04 Ressourcen/**: Wissen zum Nachschlagen, gesammelte Informationen.
 - **05 Daily Notes/**: Mein Tagebuch der Zusammenarbeit. Was an einem Tag passiert ist.
 
-## Regeln für dieses Vault
+## So arbeitet mein Assistent mit diesem Vault
 
-- Neue Notizen ohne klaren Platz kommen nach 01 Inbox/.
-- Eine Idee pro Notiz, wo möglich.
-- Notizen mit echten Sätzen, so wie ich denke.
+Diese Regeln gelten immer. Sie sorgen dafür, dass mein zweites Gehirn ordentlich wächst, ohne dass ich aufräumen muss.
+
+### Speichern und Notizen anlegen
+- Neue Notizen ohne klaren Platz kommen nach `01 Inbox/`.
+- Eine Idee pro Notiz, wo möglich. Ausnahme sind die Tagesnotizen, die einen ganzen Tag zusammenfassen.
+- Schreib Notizen in echten, ganzen Sätzen, so wie ich denke, kein Stichwort-Telegramm.
+- Dateinamen in normaler Schreibweise mit Leerzeichen und Großbuchstaben, beschreibend. Zum Beispiel "Fristen im Arbeitsrecht.md".
+- Wenn es passt, setz oben eine kleine Kopfzeile mit tags, status und date. Übertreib es nicht.
+- Wenn du eine Datei anlegst oder verschiebst, sag mir in einem Satz, was du getan hast und warum.
+
+### Wie Bereiche gespeichert werden
+- Jeder Bereich ist ein eigener Ordner unter `03 Bereiche/`.
+- In jedem Bereich liegt eine Startnotiz, die ihn beschreibt und mein Wissen dazu sammelt.
+- Neues Wissen zu einem Bereich kommt als eigene Notiz in genau diesen Ordner.
+- Wenn eine neue dauerhafte Verantwortung auftaucht, schlag mir einen neuen Bereich-Ordner vor und frag, bevor du ihn anlegst.
+
+### Wie Projekte gespeichert werden
+- Jedes Projekt ist eine Notiz unter `02 Projekte/`. Einen Unterordner nur, wenn ein Projekt mehrere Dateien braucht.
+- Ein fertiges Projekt wird erst archiviert, wenn ich es sage.
+
+### Wann und wie die Inbox gelesen wird
+- Schnelle Gedanken kommen immer zuerst in `01 Inbox/`. Sortieren kommt später, das nimmt den Druck raus.
+- Zu Beginn einer Arbeitssitzung schaust du in `01 Inbox/`, zeigst mir, was drin liegt, und bietest an, es einzusortieren.
+- So sortierst du: Geh die Notizen einzeln durch, schlag für jede den besten Platz vor (welcher Bereich, welches Projekt, welche Ressource), frag kurz nach und verschieb sie dann. Sag mir je Notiz in einem Satz, wohin und warum.
+- Lass die Inbox nie still volllaufen. Wenn sich viel ansammelt, erinnere mich freundlich.
+
+### Notizen verbinden
+- Nutz [[Wikilinks]], um zusammengehörige Notizen zu verknüpfen, wenn mir das später beim Wiederfinden hilft. Setz sie gezielt, nicht wahllos.
+
+### MEMORY.md
+- Die wenigen festen Punkte, die du immer im Kopf behalten sollst, stehen in `MEMORY.md`. Lies sie zu Beginn. Wenn ich etwas sage, das dauerhaft wichtig ist, ergänze es dort.
+
+### Wenn ich sage "merk dir das"
+- Speicher es dort, wo es thematisch hingehört. Fachwissen in den passenden Bereich, eine Regel für deine Arbeitsweise in diese CLAUDE.md, ein dauerhafter Fakt in MEMORY.md. Im Zweifel frag kurz nach.
+
+### Sicherheit
+- Bleib immer innerhalb dieses Vault-Ordners. Greif niemals auf Dateien außerhalb zu.
 - Bevor du etwas löschst oder überschreibst, frag mich.
+
+## Session-Routinen
+
+- **Zu Beginn einer Sitzung:** Begrüß mich kurz, schau in die Inbox und zeig mir, was offen liegt.
+- **Am Ende einer Sitzung:** Biete an, eine kurze Tagesnotiz in `05 Daily Notes/` zu schreiben, die festhält, was wir entschieden haben und was offen bleibt. Dateiname im Format JJJJ-MM-TT, zum Beispiel 2026-06-19.md.
